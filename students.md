@@ -30,15 +30,14 @@ comments: false
 # Undergraduate Interns
 
 |---|---|
-|**Hyunyung Jung**|B.S. in Mechanical Engineering|
-|**Sanghee Jung**|B.S. in Mechanical Engineering|
-|**Seokjin Kim**|B.S. in Statistics|
-|**Joonyoung Park**|B.S. in Statistics| 
-
-
- <!-- 
-|---|---|
 |**Hyunyung Jung**||
 |**Sanghee Jung**||
 |**Seokjin Kim**||
-|**Joonyoung Park**||  -->
+|**Joonyoung Park**|| 
+
+<!-- 
+|---|---|
+|**Hyunyung Jung**|B.S. in Mechanical Engineering|
+|**Sanghee Jung**|B.S. in Mechanical Engineering|
+|**Seokjin Kim**|B.S. in Statistics|
+|**Joonyoung Park**|B.S. in Statistics| -->
